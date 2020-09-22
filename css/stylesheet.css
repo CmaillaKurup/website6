@@ -1,0 +1,27 @@
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgrey;
+    color: white;
+    text-align: center;
+}
+
+footer address {
+    text-align: left;
+    float: left;
+    margin: 50px;
+}
+
+.icons {
+    float: right;
+    margin: 50px;
+    padding-top: 40px;
+    padding-right: 15px;
+}
+
+i {
+    font-size: 40px;
+    padding: 10px;
+}
